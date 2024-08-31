@@ -1,0 +1,31 @@
+Welcome!
+Please select the transaction.
+1.Check Balance
+2.Deposit
+3.Withdrawl
+4.Exit
+Enter your choice:
+1
+Your Balance is:$ 1000.0
+==================================
+Welcome!
+Please select the transaction.
+1.Check Balance
+2.Deposit
+3.Withdrawl
+4.Exit
+Enter your choice:
+2
+Enter the amount to deposit: $10
+Deposit of $10.0sucessful.
+==================================
+Welcome!
+Please select the transaction.
+1.Check Balance
+2.Deposit
+3.Withdrawl
+4.Exit
+Enter your choice:
+1
+Your Balance is:$ 1010.0
+==================================
